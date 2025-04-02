@@ -1,6 +1,3 @@
-
-
-
 # 🏋️‍♂️ House of Gainz - Gym Management System
 
 This is a Bash script-based **Gym Management System** that allows the admin to manage members, payments, and trainers. Users can join, edit profiles, and pay fees.
@@ -15,8 +12,13 @@ This is a Bash script-based **Gym Management System** that allows the admin to m
 - Join and edit membership details  
 - Pay fees  
 
-## 📌 Usage
-```bash
-chmod +x gym_management.sh  # Make script executable
-./gym_management.sh          # Run the script
+## 🛠️ Technologies Used
+- Bash (Shell Scripting)
+- Linux Command Line
+- Text-based Database (if applicable)
 
+## 📌 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/House-of-Gainz.git
+   cd House-of-Gainz
